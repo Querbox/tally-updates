@@ -1,10 +1,10 @@
 {
-  "version": "1.5.1",
-  "notes": "Intelligenter Titel-Input: Auto-Erkennung von Kunde, Tag, Uhrzeit, Datum & Priorität mit Shimmer-Effekt. Duplikat-Warnung. Meeting-Anzeige in Stunden.",
+  "version": "1.6.0",
+  "notes": "Unabhängiges Update-System, verbesserte Datenschutz-Einstellungen.",
   "pub_date": "2026-02-24T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcUNlVFJ2ZG96ZkhtTUE0dnd5RGVoUXB5UTRVQWVCWlkraWd2aTYxcVVESEVnUldIbnUzUHIzWGxvVXZGdVZad3lmMmlRSHhNcngrcWE5Mnpab2ZUNnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxOTM3MTQ2CWZpbGU6VGFsbHkuYXBwLnRhci5negpueFNwSjJOcmM5YjN4U1pzQlM2ek1EQzhZNXh0Q3FZM09NOHltZEZjakhoOGVkOU9KOVYzd3FvWERoRS96UEJuR0krME9pSTBCMi9lL3FTakJBMURDdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcUhnZUZNUVQ5MW9zS2hjczZBRndzYUQzbFMwM3JRb3prd1R6S1laVTJTRlFQb2szZFVUTUNhNUNRNCtwUzZKN1FZZmVNckJJVnZhd1g4YVV2U0JTalFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxOTQxMjAwCWZpbGU6VGFsbHkuYXBwLnRhci5negpKZXJTSm41MEdJSGUwZ2ZYSjhLdndZZXJOZmxXQThMcTNYSEVGdER5RnlOdkdlZ3hscmM5MVYxNC9DOGVIeWdSN1lyNFFsZ29neUNMTnJ3V091V1NBUT09Cg==",
       "url": "https://github.com/Querbox/tally-updates/releases/latest/download/Tally.app.tar.gz"
     }
   }
