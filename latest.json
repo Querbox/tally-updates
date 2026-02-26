@@ -1,10 +1,10 @@
 {
-  "version": "1.9.0",
-  "notes": "Dashboard Redesign: Neue Sidebar, Outlook-Integration, Dark Mode Verbesserungen.",
-  "pub_date": "2026-02-26T00:00:00Z",
+  "version": "1.0.1",
+  "notes": "Beta Release: Kalender-Views (Monat/Agenda), Teams-Integration, Fokus-Glow.",
+  "pub_date": "2026-02-26T12:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcUxWUC8vTHQ3T0NRbjYvT1dnR1FuRUxzTmhFRDNLSkRuMGhhSVNMazdKMDRRbHVNQWJzc2hYYW90eCt1RDU1NEhyaGVRUEE4SEhIYjlOVVFsUkVUZkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTM1ODA4CWZpbGU6VGFsbHkuYXBwLnRhci5negozY2h3MkZVUVMxWXNDSnJIV2RNVFl2TFpsVWxHT1ZJNGR1MC9yT09oU3MvUkorMEp2aVE4RlV1MDk3R2FiSHVtN21XMWJqa1VvZTFPNlhsWXkyeEpBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcU5uYkNFTWNVVFJwNW9NYnBTeW9RWmtTU1lqQjNhRzJLV2p0NnFVNXlIVWZmbUxyWlZzUTBtbWZqeVBZUGR6QjBkMSswRjBSaVZNSDYxeUdLSG05cGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTM4OTkxCWZpbGU6VGFsbHkuYXBwLnRhci5negp3Wjl5cDZrc1R5dWozbXUrRnVPVHFTVURhV09nOHpKQTF3eGo0WGFCTjhWY0hjaWZTSWRMT0RXYVJrRDFmTjl1aFM2WFc5N2FGQXBjMTJURC9rOHFCUT09Cg==",
       "url": "https://github.com/Querbox/tally-updates/releases/latest/download/Tally.app.tar.gz"
     }
   }
