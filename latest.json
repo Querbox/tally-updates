@@ -1,10 +1,10 @@
 {
-  "version": "1.8.0",
-  "notes": "Whiteboard Pro: Multi-Select, Snap-to-Grid, Sticky Notes, Bilder. Text-Highlighting in Dokumenten.",
+  "version": "1.9.0",
+  "notes": "Dashboard Redesign: Neue Sidebar, Outlook-Integration, Dark Mode Verbesserungen.",
   "pub_date": "2026-02-26T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcURBRG1NSEFybmdHb2EvWUtHK1FTbktCTWcwTWx4MUh6UVMvWWZoV3Y5U1JrVUlBdGc1dFRVcWI0RmNKa1FnaTIrWjl1ektmNHB6Tk8rLzBzUnhJd0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTM0MTM5CWZpbGU6VGFsbHkuYXBwLnRhci5negpHdnhScGJYMEJFdlFJVUdqbzFGTnBCbDIxMExSZ0RINTVJSUd1cUFXa3h1N0RYU1BoYzBkV3BTMGJ0RDV2MG5PZCtSOVpiWGFBdVRUaDl2N0FwaFFBQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcUxWUC8vTHQ3T0NRbjYvT1dnR1FuRUxzTmhFRDNLSkRuMGhhSVNMazdKMDRRbHVNQWJzc2hYYW90eCt1RDU1NEhyaGVRUEE4SEhIYjlOVVFsUkVUZkEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTM1ODA4CWZpbGU6VGFsbHkuYXBwLnRhci5negozY2h3MkZVUVMxWXNDSnJIV2RNVFl2TFpsVWxHT1ZJNGR1MC9yT09oU3MvUkorMEp2aVE4RlV1MDk3R2FiSHVtN21XMWJqa1VvZTFPNlhsWXkyeEpBQT09Cg==",
       "url": "https://github.com/Querbox/tally-updates/releases/latest/download/Tally.app.tar.gz"
     }
   }
