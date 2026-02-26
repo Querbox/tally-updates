@@ -1,10 +1,10 @@
 {
-  "version": "1.6.0",
-  "notes": "Unabhängiges Update-System, verbesserte Datenschutz-Einstellungen.",
-  "pub_date": "2026-02-24T00:00:00Z",
+  "version": "1.8.0",
+  "notes": "Whiteboard Pro: Multi-Select, Snap-to-Grid, Sticky Notes, Bilder. Text-Highlighting in Dokumenten.",
+  "pub_date": "2026-02-26T00:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcUhnZUZNUVQ5MW9zS2hjczZBRndzYUQzbFMwM3JRb3prd1R6S1laVTJTRlFQb2szZFVUTUNhNUNRNCtwUzZKN1FZZmVNckJJVnZhd1g4YVV2U0JTalFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxOTQxMjAwCWZpbGU6VGFsbHkuYXBwLnRhci5negpKZXJTSm41MEdJSGUwZ2ZYSjhLdndZZXJOZmxXQThMcTNYSEVGdER5RnlOdkdlZ3hscmM5MVYxNC9DOGVIeWdSN1lyNFFsZ29neUNMTnJ3V091V1NBUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUldUZHFzWkd4TXlPcURBRG1NSEFybmdHb2EvWUtHK1FTbktCTWcwTWx4MUh6UVMvWWZoV3Y5U1JrVUlBdGc1dFRVcWI0RmNKa1FnaTIrWjl1ektmNHB6Tk8rLzBzUnhJd0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTM0MTM5CWZpbGU6VGFsbHkuYXBwLnRhci5negpHdnhScGJYMEJFdlFJVUdqbzFGTnBCbDIxMExSZ0RINTVJSUd1cUFXa3h1N0RYU1BoYzBkV3BTMGJ0RDV2MG5PZCtSOVpiWGFBdVRUaDl2N0FwaFFBQT09Cg==",
       "url": "https://github.com/Querbox/tally-updates/releases/latest/download/Tally.app.tar.gz"
     }
   }
