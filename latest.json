@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
-  "notes": "Beta Release: Kalender-Views (Monat/Agenda), Teams-Integration, Fokus-Glow.",
-  "pub_date": "2026-02-26T12:00:00Z",
+  "version": "1.1.0",
+  "notes": "Whiteboard Shapes & Connections, Light Mode Kontraste, Termine einklappbar, Search Theme, Agenda Tasks.",
+  "pub_date": "2026-03-02T09:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcU5uYkNFTWNVVFJwNW9NYnBTeW9RWmtTU1lqQjNhRzJLV2p0NnFVNXlIVWZmbUxyWlZzUTBtbWZqeVBZUGR6QjBkMSswRjBSaVZNSDYxeUdLSG05cGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyMTM4OTkxCWZpbGU6VGFsbHkuYXBwLnRhci5negp3Wjl5cDZrc1R5dWozbXUrRnVPVHFTVURhV09nOHpKQTF3eGo0WGFCTjhWY0hjaWZTSWRMT0RXYVJrRDFmTjl1aFM2WFc5N2FGQXBjMTJURC9rOHFCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZHFzWkd4TXlPcUJiL0hFVHdha1YrYTZXamMwWTRaVHNxVWpyV2FFczBYMWZuZEllcWtYTU82MjU1cVZHZDQ1cXNEbzcxN0MxRzNhYnFlYUN5eFhISnhkWis3MFhCRXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyNDM4NzA2CWZpbGU6VGFsbHkuYXBwLnRhci5negozSlRBZm84WUZuaXR6MEo5YjdtKytiZEQrNnFHUWpjc0hwWUl5dkdRNi9vaTZ4TXo3SU5Uamc3eG9ZMEVFYlRxRnZpa0hMcEhJWndhd0RFbEsyQ1FBQT09Cg==",
       "url": "https://github.com/Querbox/tally-updates/releases/latest/download/Tally.app.tar.gz"
     }
   }
